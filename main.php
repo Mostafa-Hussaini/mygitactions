@@ -2,4 +2,4 @@
 
 $name = 'Mostafa';
 
-echo $name
+echo $name;
